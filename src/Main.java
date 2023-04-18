@@ -3,9 +3,13 @@ public class Main {
 
         RegularExpressionMatching10 regularExpressionMatching10 = new RegularExpressionMatching10();
 
-        String input = "wasdaqweawuio";
-        String pattern = "wa.*w.*w";
+        String input = "aaa";
+        String pattern = "a*a";
 
-        System.out.println(regularExpressionMatching10.isMatch(input, pattern));
+        input = "aaa";
+        pattern = "a*a";
+
+        boolean result = regularExpressionMatching10.isMatch(input, pattern);
+        System.out.println(result);
     }
 }

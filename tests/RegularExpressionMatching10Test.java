@@ -33,5 +33,52 @@ class RegularExpressionMatching10Test {
         result = regularExpressionMatching10.isMatch(input, pattern);
 
         Assertions.assertEquals(expected, result);
+
+        // Case 4
+        input = "mississippi";
+        pattern = "mis*is*ip*.";
+
+        expected = true;
+        result = regularExpressionMatching10.isMatch(input, pattern);
+
+        Assertions.assertEquals(expected, result);
+
+        // Case 5
+        input = "mississippi";
+        pattern = "mis*is*p*.";
+
+        expected = false;
+        result = regularExpressionMatching10.isMatch(input, pattern);
+
+        Assertions.assertEquals(expected, result);
+
+        // Case 6
+        input = "ab";
+        pattern = ".*c";
+
+        expected = false;
+        result = regularExpressionMatching10.isMatch(input, pattern);
+
+        Assertions.assertEquals(expected, result);
+
+        // Case 7
+        input = "aaa";
+        pattern = "ab*a";
+
+        expected = false;
+        result = regularExpressionMatching10.isMatch(input, pattern);
+
+        Assertions.assertEquals(expected, result);
+
+        // Case 8
+        input = "aaa";
+        pattern = "a*a";
+
+        expected = true;
+        result = regularExpressionMatching10.isMatch(input, pattern);
+
+        Assertions.assertEquals(expected, result);
+
+
     }
 }
