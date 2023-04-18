@@ -1,9 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        MergeStringsAlternately1768 mergeStringsAlternately1768 = new MergeStringsAlternately1768();
+        RegularExpressionMatching10 regularExpressionMatching10 = new RegularExpressionMatching10();
 
-        System.out.println(mergeStringsAlternately1768.mergeAlternately("abcd", "pq"));
+        String input = "wasdaqweawuio";
+        String pattern = "wa.*w.*w";
 
+        System.out.println(regularExpressionMatching10.isMatch(input, pattern));
     }
 }
