@@ -3,11 +3,9 @@ public class Main {
 
         RegularExpressionMatching10 regularExpressionMatching10 = new RegularExpressionMatching10();
 
-        String input = "aaa";
-        String pattern = "a*a";
+        String input = "";
+        String pattern = "a";
 
-        input = "aaa";
-        pattern = "a*a";
 
         boolean result = regularExpressionMatching10.isMatch(input, pattern);
         System.out.println(result);
