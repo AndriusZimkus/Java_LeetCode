@@ -13,15 +13,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -56,6 +55,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="LongestZigZagBinaryTree1372" />
       <recent name="" />
     </key>
   </component>
@@ -87,31 +87,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeStringsAlternately1768Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestZigZagBinaryTree1372Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MergeStringsAlternately1768Test" />
+      <option name="PACKAGE_NAME" value="LongestZigZagBinaryTree1372" />
+      <option name="MAIN_CLASS_NAME" value="LongestZigZagBinaryTree1372.LongestZigZagBinaryTree1372Test" />
+      <option name="METHOD_NAME" value="longestZigZag1" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpressionMatching10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestZigZagBinaryTree1372Test.longestZigZag1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionMatching10Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="LongestZigZagBinaryTree1372" />
+      <option name="MAIN_CLASS_NAME" value="LongestZigZagBinaryTree1372.LongestZigZagBinaryTree1372Test" />
+      <option name="METHOD_NAME" value="longestZigZag1" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpressionMatching10Test.isMatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestZigZagBinaryTree1372Test.longestZigZag4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionMatching10Test" />
-      <option name="METHOD_NAME" value="isMatch" />
+      <option name="PACKAGE_NAME" value="LongestZigZagBinaryTree1372" />
+      <option name="MAIN_CLASS_NAME" value="LongestZigZagBinaryTree1372.LongestZigZagBinaryTree1372Test" />
+      <option name="METHOD_NAME" value="longestZigZag4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -128,24 +130,15 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.RegularExpressionMatching10Test" />
         <item itemvalue="JUnit.All in Java_LeetCode" />
-        <item itemvalue="JUnit.RegularExpressionMatching10Test.isMatch" />
-        <item itemvalue="JUnit.MergeStringsAlternately1768Test" />
+        <item itemvalue="JUnit.LongestZigZagBinaryTree1372Test" />
+        <item itemvalue="JUnit.LongestZigZagBinaryTree1372Test.longestZigZag4" />
+        <item itemvalue="JUnit.LongestZigZagBinaryTree1372Test.longestZigZag1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="LongestZigZagBinaryTree1372.TreeNodeCustom" memberName="left" />
