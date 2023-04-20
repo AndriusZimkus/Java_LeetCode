@@ -1,18 +1,13 @@
-import LongestZigZagBinaryTree1372.BinaryTreeBuilder;
-import LongestZigZagBinaryTree1372.LongestZigZagBinaryTree1372;
-import LongestZigZagBinaryTree1372.TreeNodeCustom;
-
 public class Main {
     public static void main(String[] args) {
 
-        String rootList = "[1,null,1,1,1,null,null,1,1,null,1,null,null,null,1,null,1]";
+        FirstMissingPositive41 firstMissingPositive41 = new FirstMissingPositive41();
 
-        TreeNodeCustom root = BinaryTreeBuilder.buildBinaryTree(rootList);
+        int[] nums = {7, 3, 8, 2, 1, 10, 11};
 
-        LongestZigZagBinaryTree1372 solution1372 = new LongestZigZagBinaryTree1372();
+        int firstMissingPositive = firstMissingPositive41.firstMissingPositive(nums);
 
-        int longest = solution1372.longestZigZag(root);
-        System.out.println(longest);
+        System.out.println(firstMissingPositive);
 
     }
 }
