@@ -108,11 +108,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestZigZagBinaryTree1372Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingleNumber136Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="LongestZigZagBinaryTree1372" />
-      <option name="MAIN_CLASS_NAME" value="LongestZigZagBinaryTree1372.LongestZigZagBinaryTree1372Test" />
-      <option name="METHOD_NAME" value="longestZigZag1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SingleNumber136Test" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -130,9 +129,9 @@
       <list>
         <item itemvalue="JUnit.All in Java_LeetCode" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SingleNumber136Test" />
         <item itemvalue="JUnit.FirstMissingPositive41Test" />
         <item itemvalue="JUnit.FirstMissingPositive41Test.firstMissingPositive3" />
-        <item itemvalue="JUnit.LongestZigZagBinaryTree1372Test" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>7</line>
+          <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
