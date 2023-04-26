@@ -54,12 +54,15 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddTwoNumbers2Test">
+  <component name="RunManager" selected="JUnit.LC2AddTwoNumbersTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -78,10 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbers2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in Java_LeetCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers2Test" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC2AddTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LC2AddTwoNumbersTest" />
       <option name="METHOD_NAME" value="addTwoNumbers" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -89,10 +101,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbers2Test.addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2AddTwoNumbersTest.addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers2Test" />
+      <option name="MAIN_CLASS_NAME" value="LC2AddTwoNumbersTest" />
       <option name="METHOD_NAME" value="addTwoNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -100,21 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbers2Test.addTwoNumbers2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2AddTwoNumbersTest.addTwoNumbers2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers2Test" />
+      <option name="MAIN_CLASS_NAME" value="LC2AddTwoNumbersTest" />
       <option name="METHOD_NAME" value="addTwoNumbers2" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in Java_LeetCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,9 +132,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AddTwoNumbers2Test" />
-        <item itemvalue="JUnit.AddTwoNumbers2Test.addTwoNumbers" />
-        <item itemvalue="JUnit.AddTwoNumbers2Test.addTwoNumbers2" />
+        <item itemvalue="JUnit.LC2AddTwoNumbersTest" />
+        <item itemvalue="JUnit.LC2AddTwoNumbersTest.addTwoNumbers" />
+        <item itemvalue="JUnit.LC2AddTwoNumbersTest.addTwoNumbers2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.All in Java_LeetCode" />
       </list>
@@ -142,14 +145,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tests/FirstOccurence28Test.java</url>
+          <url>file://$PROJECT_DIR$/tests/LC28_FirstOccurenceTest.java</url>
           <line>40</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tests/AddTwoNumbers2Test.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/tests/LC2AddTwoNumbersTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
