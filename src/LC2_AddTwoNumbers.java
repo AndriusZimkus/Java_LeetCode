@@ -19,7 +19,6 @@ public class LC2_AddTwoNumbers {
 
         while (!isL1Empty || !isL2Empty) {
 
-
             if (!isL1Empty) {
                 if (currentL1 == null) {
                     currentL1 = l1;
@@ -28,7 +27,6 @@ public class LC2_AddTwoNumbers {
                     isL1Empty = true;
                 } else currentL1 = currentL1.next;
             }
-
 
             if (!isL2Empty) {
                 if (currentL2 == null) {
@@ -67,23 +65,13 @@ public class LC2_AddTwoNumbers {
                 firstListNode = currentListNode;
             }
             if (previousListNode != null) {
-//                currentListNode.next = previousListNode;
                 previousListNode.next = currentListNode;
             }
             previousListNode = currentListNode;
-
-
+            
         }
 
         return firstListNode;
-
-
-//        int firstNumber = parseNumberFromListNode(l1);
-//        int secondNumber = parseNumberFromListNode(l2);
-//
-//        Integer finalNumber = firstNumber + secondNumber;
-//
-//        return parseListNodeFromNumber(finalNumber);
 
     }
 
