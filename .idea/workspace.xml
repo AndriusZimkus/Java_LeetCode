@@ -23,7 +23,7 @@
     <toolWindowToFront>false</toolWindowToFront>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2ObbMR0MRAlDGd5Yb5BVHg3JSAG" />
   <component name="ProjectViewState">
@@ -62,18 +62,10 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC258_AddDigitsTest">
+  <component name="RunManager" selected="JUnit.LC3_LongestSubstringTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java_LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -124,6 +116,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LC3_LongestSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LC3_LongestSubstringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC3_LongestSubstringTest" />
         <item itemvalue="JUnit.LC258_AddDigitsTest" />
         <item itemvalue="JUnit.LC2AddTwoNumbersTest" />
         <item itemvalue="JUnit.LC2AddTwoNumbersTest.addTwoNumbers" />
         <item itemvalue="JUnit.LC2AddTwoNumbersTest.addTwoNumbers2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +153,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tests/LC2AddTwoNumbersTest.java</url>
+          <url>file://$PROJECT_DIR$/tests/LC2_AddTwoNumbersTest.java</url>
           <line>44</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -159,6 +161,11 @@
           <url>file://$PROJECT_DIR$/tests/LC258_AddDigitsTest.java</url>
           <line>10</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC3_LongestSubstringTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
