@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -62,13 +62,34 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC3_LongestSubstringTest">
+  <component name="RunManager" selected="JUnit.LC14_LongestCommonPrefixTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC14_LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LC14_LongestCommonPrefixTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC14_LongestCommonPrefixTest.longestCommonPrefix3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LC14_LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="longestCommonPrefix3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,28 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2AddTwoNumbersTest.addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="addTwoNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC2AddTwoNumbersTest.addTwoNumbers2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="addTwoNumbers2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LC3_LongestSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC14_LongestCommonPrefixTest" />
+        <item itemvalue="JUnit.LC14_LongestCommonPrefixTest.longestCommonPrefix3" />
         <item itemvalue="JUnit.LC3_LongestSubstringTest" />
         <item itemvalue="JUnit.LC258_AddDigitsTest" />
         <item itemvalue="JUnit.LC2AddTwoNumbersTest" />
-        <item itemvalue="JUnit.LC2AddTwoNumbersTest.addTwoNumbers" />
-        <item itemvalue="JUnit.LC2AddTwoNumbersTest.addTwoNumbers2" />
       </list>
     </recent_temporary>
   </component>
