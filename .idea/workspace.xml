@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC14_LongestCommonPrefixTest">
+  <component name="RunManager" selected="JUnit.LC6403_MaxNumberOfFishInGridTest.findMaxFish2">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -73,53 +73,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC14_LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6403_MaxNumberOfFishInGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC14_LongestCommonPrefixTest" />
+      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC14_LongestCommonPrefixTest.longestCommonPrefix3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6403_MaxNumberOfFishInGridTest.findMaxFish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC14_LongestCommonPrefixTest" />
-      <option name="METHOD_NAME" value="longestCommonPrefix3" />
+      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
+      <option name="METHOD_NAME" value="findMaxFish" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC258_AddDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6403_MaxNumberOfFishInGridTest.findMaxFish1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC258_AddDigitsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
+      <option name="METHOD_NAME" value="findMaxFish1" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2AddTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6403_MaxNumberOfFishInGridTest.findMaxFish2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="addTwoNumbers" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
+      <option name="METHOD_NAME" value="findMaxFish2" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC3_LongestSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC6405_PrefixCommonArrayInTwoArraysTest.findThePrefixCommonArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC3_LongestSubstringTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="LC6405_PrefixCommonArrayInTwoArraysTest" />
+      <option name="METHOD_NAME" value="findThePrefixCommonArray" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LC14_LongestCommonPrefixTest" />
-        <item itemvalue="JUnit.LC14_LongestCommonPrefixTest.longestCommonPrefix3" />
-        <item itemvalue="JUnit.LC3_LongestSubstringTest" />
-        <item itemvalue="JUnit.LC258_AddDigitsTest" />
-        <item itemvalue="JUnit.LC2AddTwoNumbersTest" />
+        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest.findMaxFish2" />
+        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest" />
+        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest.findMaxFish1" />
+        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest.findMaxFish" />
+        <item itemvalue="JUnit.LC6405_PrefixCommonArrayInTwoArraysTest.findThePrefixCommonArray" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +168,11 @@
           <line>20</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC6403_MaxNumberOfFishInGridTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -174,6 +181,9 @@
       </pinned-members>
     </pin-to-top-manager>
     <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="marked[1][1]" />
+      </configuration>
       <configuration name="Application">
         <watch expression="root.right" />
         <watch expression="root.left.right.left" />
