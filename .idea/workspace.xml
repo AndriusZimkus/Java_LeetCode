@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC11_ContainerWithMostWaterTest">
+  <component name="RunManager" selected="JUnit.LC2658_MaxNumberOfFishInGridTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -83,20 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC6403_MaxNumberOfFishInGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2658_MaxNumberOfFishInGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC6403_MaxNumberOfFishInGridTest.findMaxFish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2658_MaxNumberOfFishInGridTest.findMaxFish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
       <option name="METHOD_NAME" value="findMaxFish" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -104,10 +104,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC6403_MaxNumberOfFishInGridTest.findMaxFish1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2658_MaxNumberOfFishInGridTest.findMaxFish1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
       <option name="METHOD_NAME" value="findMaxFish1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -115,10 +115,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC6403_MaxNumberOfFishInGridTest.findMaxFish2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2658_MaxNumberOfFishInGridTest.findMaxFish2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC6403_MaxNumberOfFishInGridTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
       <option name="METHOD_NAME" value="findMaxFish2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest" />
+        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish" />
         <item itemvalue="JUnit.LC11_ContainerWithMostWaterTest" />
-        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest.findMaxFish2" />
-        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest" />
-        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest.findMaxFish1" />
-        <item itemvalue="JUnit.LC6403_MaxNumberOfFishInGridTest.findMaxFish" />
+        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish2" />
+        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish1" />
       </list>
     </recent_temporary>
   </component>
@@ -166,11 +166,6 @@
           <url>file://$PROJECT_DIR$/tests/LC3_LongestSubstringTest.java</url>
           <line>20</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tests/LC6403_MaxNumberOfFishInGridTest.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/tests/LC11_ContainerWithMostWaterTest.java</url>

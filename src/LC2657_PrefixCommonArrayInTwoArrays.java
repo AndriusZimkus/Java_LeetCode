@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class LC6405_PrefixCommonArrayInTwoArrays {
+public class LC2657_PrefixCommonArrayInTwoArrays {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
 
         int[] C = new int[A.length];
@@ -34,6 +34,6 @@ public class LC6405_PrefixCommonArrayInTwoArrays {
         }
 
         return C;
-        
+
     }
 }

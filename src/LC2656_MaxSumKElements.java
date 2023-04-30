@@ -1,4 +1,4 @@
-public class LC6406_MaxSumKElements {
+public class LC2656_MaxSumKElements {
     public int maximizeSum(int[] nums, int k) {
 
         int max = maxFromArray(nums);
