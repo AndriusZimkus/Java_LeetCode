@@ -17,9 +17,7 @@ public class LC2660_BowlingGameWinner {
 
     private int shotWorth(int[] player, int i) {
         int factor = 1;
-        if (i == 0) {
-            factor = 1;
-        } else if (i == 1 && player[0] == 10) {
+        if (i == 1 && player[0] == 10) {
             factor = 2;
         } else if (i > 1 && (player[i - 1] == 10 || player[i - 2] == 10)) {
             factor = 2;

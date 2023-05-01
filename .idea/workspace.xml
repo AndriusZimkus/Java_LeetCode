@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC2660_BowlingGameWinnerTest">
+  <component name="RunManager" selected="JUnit.LC2661_FirstCompleteIndexTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -104,21 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2658_MaxNumberOfFishInGridTest.findMaxFish2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2660_BowlingGameWinnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
-      <option name="METHOD_NAME" value="findMaxFish2" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="LC2660_BowlingGameWinnerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2660_BowlingGameWinnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2661_FirstCompleteIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2660_BowlingGameWinnerTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2661_FirstCompleteIndexTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC2661_FirstCompleteIndexTest" />
         <item itemvalue="JUnit.LC2660_BowlingGameWinnerTest" />
         <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest" />
         <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish" />
         <item itemvalue="JUnit.LC11_ContainerWithMostWaterTest" />
-        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish2" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +169,11 @@
           <url>file://$PROJECT_DIR$/tests/LC11_ContainerWithMostWaterTest.java</url>
           <line>19</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC2661_FirstCompleteIndexTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
