@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC2658_MaxNumberOfFishInGridTest">
+  <component name="RunManager" selected="JUnit.LC2660_BowlingGameWinnerTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -104,23 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2658_MaxNumberOfFishInGridTest.findMaxFish1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
-      <option name="METHOD_NAME" value="findMaxFish1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LC2658_MaxNumberOfFishInGridTest.findMaxFish2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
       <option name="METHOD_NAME" value="findMaxFish2" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC2660_BowlingGameWinnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LC2660_BowlingGameWinnerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC2660_BowlingGameWinnerTest" />
         <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest" />
         <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish" />
         <item itemvalue="JUnit.LC11_ContainerWithMostWaterTest" />
         <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish2" />
-        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish1" />
       </list>
     </recent_temporary>
   </component>
