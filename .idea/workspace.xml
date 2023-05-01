@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC2661_FirstCompleteIndexTest">
+  <component name="RunManager" selected="JUnit.LC1491_AverageSalaryExclMinMaxTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -73,10 +73,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC11_ContainerWithMostWaterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1491_AverageSalaryExclMinMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC11_ContainerWithMostWaterTest" />
+      <option name="MAIN_CLASS_NAME" value="LC1491_AverageSalaryExclMinMaxTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC1491_AverageSalaryExclMinMaxTest" />
         <item itemvalue="JUnit.LC2661_FirstCompleteIndexTest" />
         <item itemvalue="JUnit.LC2660_BowlingGameWinnerTest" />
         <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest" />
         <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish" />
-        <item itemvalue="JUnit.LC11_ContainerWithMostWaterTest" />
       </list>
     </recent_temporary>
   </component>
