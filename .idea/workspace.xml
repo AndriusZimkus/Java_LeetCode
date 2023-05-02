@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1491_AverageSalaryExclMinMaxTest">
+  <component name="RunManager" selected="JUnit.LC1822_SignOfArrayProductTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -83,21 +83,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2658_MaxNumberOfFishInGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1822_SignOfArrayProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
+      <option name="MAIN_CLASS_NAME" value="LC1822_SignOfArrayProductTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2658_MaxNumberOfFishInGridTest.findMaxFish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1822_SignOfArrayProductTest.arraySign3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2658_MaxNumberOfFishInGridTest" />
-      <option name="METHOD_NAME" value="findMaxFish" />
+      <option name="MAIN_CLASS_NAME" value="LC1822_SignOfArrayProductTest" />
+      <option name="METHOD_NAME" value="arraySign3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC1822_SignOfArrayProductTest" />
+        <item itemvalue="JUnit.LC1822_SignOfArrayProductTest.arraySign3" />
         <item itemvalue="JUnit.LC1491_AverageSalaryExclMinMaxTest" />
         <item itemvalue="JUnit.LC2661_FirstCompleteIndexTest" />
         <item itemvalue="JUnit.LC2660_BowlingGameWinnerTest" />
-        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest" />
-        <item itemvalue="JUnit.LC2658_MaxNumberOfFishInGridTest.findMaxFish" />
       </list>
     </recent_temporary>
   </component>
