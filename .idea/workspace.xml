@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC2215_Difference2ArraysTest">
+  <component name="RunManager" selected="JUnit.LC5_LongestPalindromicSubstringTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -78,17 +78,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LC1822_SignOfArrayProductTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC1822_SignOfArrayProductTest.arraySign3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC1822_SignOfArrayProductTest" />
-      <option name="METHOD_NAME" value="arraySign3" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,6 +113,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LC5_LongestPalindromicSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LC5_LongestPalindromicSubstringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LC2215_Difference2ArraysTest" />
+        <item itemvalue="JUnit.LC5_LongestPalindromicSubstringTest" />
         <item itemvalue="JUnit.LC4_Median2SortedArraysTest" />
+        <item itemvalue="JUnit.LC2215_Difference2ArraysTest" />
         <item itemvalue="JUnit.LC26_RemoveDuplicatesFromSortedArrayTest" />
         <item itemvalue="JUnit.LC1822_SignOfArrayProductTest" />
-        <item itemvalue="JUnit.LC1822_SignOfArrayProductTest.arraySign3" />
       </list>
     </recent_temporary>
   </component>
@@ -181,9 +180,9 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LC4_Median2SortedArrays.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="26" />
+          <url>file://$PROJECT_DIR$/tests/LC5_LongestPalindromicSubstringTest.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
