@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1456_MaxNumberOfVowelSubstringTest">
+  <component name="RunManager" selected="JUnit.LC1498_NumberSubsequencesSatisfySumTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -94,22 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC649_Dota2SenateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1498_NumberSubsequencesSatisfySumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC649_Dota2SenateTest" />
+      <option name="MAIN_CLASS_NAME" value="LC1498_NumberSubsequencesSatisfySumTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC649_Dota2SenateTest.predictPartyVictory3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC649_Dota2SenateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LC649_Dota2SenateTest" />
-      <option name="METHOD_NAME" value="predictPartyVictory3" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC1498_NumberSubsequencesSatisfySumTest" />
         <item itemvalue="JUnit.LC1456_MaxNumberOfVowelSubstringTest" />
         <item itemvalue="JUnit.LC1456_MaxNumberOfVowelSubstringTest.maxVowels6" />
         <item itemvalue="JUnit.LC6_ZigzagConversionTest" />
         <item itemvalue="JUnit.LC649_Dota2SenateTest" />
-        <item itemvalue="JUnit.LC649_Dota2SenateTest.predictPartyVictory3" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +190,15 @@
           <line>47</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC1498_NumberSubsequencesSatisfySumTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="36" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
