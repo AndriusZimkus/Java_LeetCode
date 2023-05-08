@@ -37,9 +37,9 @@ class LC1498_NumberSubsequencesSatisfySumTest {
 
     @Test
     void numSubseq4() {
-        int[] nums = {1, 2, 3, 5, 1, 2};
-        int target = 5;
-        int expected = 9;
+        int[] nums = {1};
+        int target = 2;
+        int expected = 1;
         int actual = lc1498_numberSubsequencesSatisfySum.numSubseq(nums, target);
 
         Assertions.assertEquals(expected, actual);

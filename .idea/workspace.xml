@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1964_LongestCourseEachPositionTest">
+  <component name="RunManager" selected="JUnit.LC1498_NumberSubsequencesSatisfySumTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -104,20 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1964_LongestCourseEachPositionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1572_MatrixDiagonalSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC1964_LongestCourseEachPositionTest" />
+      <option name="MAIN_CLASS_NAME" value="LC1572_MatrixDiagonalSumTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC6_ZigzagConversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1964_LongestCourseEachPositionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC6_ZigzagConversionTest" />
+      <option name="MAIN_CLASS_NAME" value="LC1964_LongestCourseEachPositionTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LC1964_LongestCourseEachPositionTest" />
         <item itemvalue="JUnit.LC1498_NumberSubsequencesSatisfySumTest" />
+        <item itemvalue="JUnit.LC1572_MatrixDiagonalSumTest" />
+        <item itemvalue="JUnit.LC1964_LongestCourseEachPositionTest" />
         <item itemvalue="JUnit.LC1456_MaxNumberOfVowelSubstringTest" />
         <item itemvalue="JUnit.LC1456_MaxNumberOfVowelSubstringTest.maxVowels6" />
-        <item itemvalue="JUnit.LC6_ZigzagConversionTest" />
       </list>
     </recent_temporary>
   </component>
