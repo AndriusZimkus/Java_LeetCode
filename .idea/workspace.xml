@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1498_NumberSubsequencesSatisfySumTest">
+  <component name="RunManager" selected="JUnit.LC58_LengthOfLastWordTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -78,17 +78,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LC1456_MaxNumberOfVowelSubstringTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC1456_MaxNumberOfVowelSubstringTest.maxVowels6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC1456_MaxNumberOfVowelSubstringTest" />
-      <option name="METHOD_NAME" value="maxVowels6" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,6 +113,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LC58_LengthOfLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LC58_LengthOfLastWordTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC58_LengthOfLastWordTest" />
         <item itemvalue="JUnit.LC1498_NumberSubsequencesSatisfySumTest" />
         <item itemvalue="JUnit.LC1572_MatrixDiagonalSumTest" />
         <item itemvalue="JUnit.LC1964_LongestCourseEachPositionTest" />
         <item itemvalue="JUnit.LC1456_MaxNumberOfVowelSubstringTest" />
-        <item itemvalue="JUnit.LC1456_MaxNumberOfVowelSubstringTest.maxVowels6" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +198,11 @@
           <url>file://$PROJECT_DIR$/tests/LC1964_LongestCourseEachPositionTest.java</url>
           <line>29</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC58_LengthOfLastWordTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
