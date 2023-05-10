@@ -21,6 +21,7 @@
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -203,11 +204,6 @@
           <url>file://$PROJECT_DIR$/tests/LC58_LengthOfLastWordTest.java</url>
           <line>11</line>
           <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LC54_SpiralMatrix.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />

@@ -31,4 +31,37 @@ class LC54_SpiralMatrixTest {
 
 
     }
+
+    @Test
+    void spiralOrder3() {
+        int[][] matrix = {{1}};
+        List<Integer> expected = new ArrayList<>(List.of(1));
+
+        List<Integer> actual = lc54_spiralMatrix.spiralOrder(matrix);
+
+        Assertions.assertIterableEquals(expected, actual);
+
+    }
+
+    @Test
+    void spiralOrder4() {
+        int[][] matrix = {{1, 2, 3, 4, 5}};
+        List<Integer> expected = new ArrayList<>(List.of(1, 2, 3, 4, 5));
+
+        List<Integer> actual = lc54_spiralMatrix.spiralOrder(matrix);
+
+        Assertions.assertIterableEquals(expected, actual);
+
+    }
+
+    @Test
+    void spiralOrder5() {
+        int[][] matrix = {{1}, {2}, {3}, {4}, {5}};
+        List<Integer> expected = new ArrayList<>(List.of(1, 2, 3, 4, 5));
+
+        List<Integer> actual = lc54_spiralMatrix.spiralOrder(matrix);
+
+        Assertions.assertIterableEquals(expected, actual);
+
+    }
 }
