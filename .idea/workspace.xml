@@ -62,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1035_UncrossedLinesTest">
+  <component name="RunManager" selected="JUnit.LC2140_SolveQsWithBrainpowerTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -83,10 +83,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1498_NumberSubsequencesSatisfySumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2140_SolveQsWithBrainpowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC1498_NumberSubsequencesSatisfySumTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2140_SolveQsWithBrainpowerTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC2140_SolveQsWithBrainpowerTest" />
         <item itemvalue="JUnit.LC1035_UncrossedLinesTest" />
         <item itemvalue="JUnit.LC59_SpiralMatrix2Test" />
         <item itemvalue="JUnit.LC54_SpiralMatrixTest" />
         <item itemvalue="JUnit.LC58_LengthOfLastWordTest" />
-        <item itemvalue="JUnit.LC1498_NumberSubsequencesSatisfySumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +213,11 @@
           <url>file://$PROJECT_DIR$/tests/LC1035_UncrossedLinesTest.java</url>
           <line>92</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC2140_SolveQsWithBrainpowerTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
