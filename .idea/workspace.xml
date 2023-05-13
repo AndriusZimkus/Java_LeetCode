@@ -21,6 +21,7 @@
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -62,7 +63,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC2140_SolveQsWithBrainpowerTest">
+  <component name="RunManager" selected="JUnit.LC2466_CountGoodStringsTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -93,20 +94,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC54_SpiralMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2466_CountGoodStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC54_SpiralMatrixTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2466_CountGoodStringsTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC58_LengthOfLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC54_SpiralMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC58_LengthOfLastWordTest" />
+      <option name="MAIN_CLASS_NAME" value="LC54_SpiralMatrixTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC2466_CountGoodStringsTest" />
         <item itemvalue="JUnit.LC2140_SolveQsWithBrainpowerTest" />
         <item itemvalue="JUnit.LC1035_UncrossedLinesTest" />
         <item itemvalue="JUnit.LC59_SpiralMatrix2Test" />
         <item itemvalue="JUnit.LC54_SpiralMatrixTest" />
-        <item itemvalue="JUnit.LC58_LengthOfLastWordTest" />
       </list>
     </recent_temporary>
   </component>
