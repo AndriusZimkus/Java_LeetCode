@@ -63,7 +63,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1799_MaxScoreNOperationsTest">
+  <component name="RunManager" selected="JUnit.LC1721_SwappingNodesLinkedListTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -74,10 +74,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1035_UncrossedLinesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC1721_SwappingNodesLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC1035_UncrossedLinesTest" />
+      <option name="MAIN_CLASS_NAME" value="LC1721_SwappingNodesLinkedListTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC1721_SwappingNodesLinkedListTest" />
         <item itemvalue="JUnit.LC1799_MaxScoreNOperationsTest" />
         <item itemvalue="JUnit.LC1799_MaxScoreNOperationsTest.maxScore6" />
         <item itemvalue="JUnit.LC2466_CountGoodStringsTest" />
         <item itemvalue="JUnit.LC2140_SolveQsWithBrainpowerTest" />
-        <item itemvalue="JUnit.LC1035_UncrossedLinesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -155,11 +155,6 @@
           <url>file://$PROJECT_DIR$/tests/LC2_AddTwoNumbersTest.java</url>
           <line>44</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tests/LC258_AddDigitsTest.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/tests/LC3_LongestSubstringTest.java</url>
@@ -235,6 +230,16 @@
           <url>file://$PROJECT_DIR$/src/LC1799_MaxScoreNOperations.java</url>
           <line>148</line>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC1721_SwappingNodesLinkedListTest.java</url>
+          <line>250</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1721_SwappingNodesLinkedList.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
