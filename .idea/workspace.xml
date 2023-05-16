@@ -21,7 +21,6 @@
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -63,7 +62,7 @@
       <recent name="LongestZigZagBinaryTree1372" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LC1721_SwappingNodesLinkedListTest">
+  <component name="RunManager" selected="JUnit.LC24_SwapNodesInPairsTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -105,20 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2140_SolveQsWithBrainpowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2466_CountGoodStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2140_SolveQsWithBrainpowerTest" />
+      <option name="MAIN_CLASS_NAME" value="LC2466_CountGoodStringsTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC2466_CountGoodStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LC24_SwapNodesInPairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LC2466_CountGoodStringsTest" />
+      <option name="MAIN_CLASS_NAME" value="LC24_SwapNodesInPairsTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LC24_SwapNodesInPairsTest" />
         <item itemvalue="JUnit.LC1721_SwappingNodesLinkedListTest" />
         <item itemvalue="JUnit.LC1799_MaxScoreNOperationsTest" />
         <item itemvalue="JUnit.LC1799_MaxScoreNOperationsTest.maxScore6" />
         <item itemvalue="JUnit.LC2466_CountGoodStringsTest" />
-        <item itemvalue="JUnit.LC2140_SolveQsWithBrainpowerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +239,16 @@
           <url>file://$PROJECT_DIR$/src/LC1721_SwappingNodesLinkedList.java</url>
           <line>39</line>
           <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC24_SwapNodesInPairsTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/LC24_SwapNodesInPairsTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
